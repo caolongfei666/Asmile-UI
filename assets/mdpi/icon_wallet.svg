@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_wallet@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="彧讯" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的" transform="translate(-16.000000, -196.000000)" fill-rule="nonzero">
+            <g id="icon_wallet" transform="translate(16.000000, 196.000000)">
+                <rect id="矩形" fill="#4796FE" x="0" y="5.88235294" width="24" height="17.6470588" rx="2"></rect>
+                <path d="M0.5,7.67596323 L19.5,5.54096607 C19.5,4.50079319 19.5,4.31281499 19.5,2.65857492 C19.5,1.29371653 18.6823798,0.37654145 17.7176526,0.514127052 L2.42353491,2.695314 C1.36419972,2.84639222 0.5,3.78295203 0.5,4.75027728 C0.5,6.54023155 0.5,6.82580146 0.5,7.67596326 Z" id="路径" stroke="#4796FE"></path>
+            </g>
+        </g>
+    </g>
+</svg>

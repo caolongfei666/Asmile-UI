@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="8px" viewBox="0 0 13 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_zhankan@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="彧讯" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="登录" transform="translate(-79.000000, -286.000000)" fill-rule="nonzero" stroke="#C4C4C4">
+            <path d="M83.3443166,284.702852 L82.7114397,285.32809 L87.4404321,290 L82.7114397,294.67191 L83.3443166,295.297148 L88.3701828,290.331947 C88.3720513,290.330094 88.3720513,290.330094 88.3739048,290.328225 C88.4581429,290.242958 88.5018196,290.130147 88.4988657,290.012596 L88.4988657,289.987475 C88.5018663,289.868067 88.4567638,289.753589 88.3701828,289.668053 L83.3443166,284.702852 Z" id="icon_zhankan" transform="translate(85.500000, 290.000000) rotate(-270.000000) translate(-85.500000, -290.000000) "></path>
+        </g>
+    </g>
+</svg>
