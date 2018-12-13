@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>mdpi/icon_touxiang</title>
+    <desc>Created with Sketch.</desc>
+    <g id="彧讯" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="通讯录" transform="translate(-225.000000, -129.000000)" fill-rule="nonzero">
+            <g id="分组" transform="translate(0.000000, 120.000000)">
+                <g id="icon_touxiang" transform="translate(225.000000, 9.000000)">
+                    <path d="M20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 Z" id="合并形状" fill="#00AB9F"></path>
+                    <circle id="椭圆形" fill="#FFFFFF" cx="20.3636364" cy="15.0909091" r="4.09090909"></circle>
+                    <path d="M18.1825458,20.8181818 L22.17505,20.8181818 C24.6948707,20.8181818 26.9100204,22.4870361 27.6051082,24.9090909 L27.6051082,24.9090909 C28.0935963,26.6112424 27.1097276,28.3871067 25.4075761,28.8755947 C25.1199955,28.9581254 24.822279,29 24.5230902,29 L16.357213,29 C14.5018575,29 12.9977947,27.4959372 12.9977947,25.6405817 C12.9977947,25.3945353 13.0248254,25.1492336 13.0784003,24.9090909 L13.0784003,24.9090909 C13.6117597,22.5183765 15.7330587,20.8181818 18.1825458,20.8181818 Z" id="矩形" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
