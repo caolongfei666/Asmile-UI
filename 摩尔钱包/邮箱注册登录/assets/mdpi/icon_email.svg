@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="15px" viewBox="0 0 19 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_email@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="快捷+邮箱登录" transform="translate(-124.000000, -399.000000)" fill-rule="nonzero" stroke="#2C8DFF" stroke-width="1.5">
+            <g id="icon_email" transform="translate(125.000000, 400.000000)">
+                <rect id="矩形" x="0" y="2.48689958e-14" width="17" height="12.2777778" rx="2"></rect>
+                <path d="M1.37158363,0.426077166 C5.07395125,4.1401895 7.57036658,5.93676241 8.86082961,5.8157959 C10.1504118,5.69491196 12.3412599,3.89709569 15.433374,0.422347085 L15.4335638,0.422515979 C15.4703717,0.381153221 15.4666793,0.317783344 15.4253166,0.280975396 C15.4069597,0.264639953 15.3832427,0.255615234 15.3586699,0.255615234 L1.44226909,0.255808837 C1.38714754,0.255808837 1.34246269,0.300493683 1.34246269,0.355615234 C1.34246269,0.382030772 1.35293463,0.407369004 1.37158363,0.426077166 Z" id="路径-8"></path>
+            </g>
+        </g>
+    </g>
+</svg>
