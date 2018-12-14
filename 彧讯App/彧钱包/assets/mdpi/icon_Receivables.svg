@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_Receivables@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="彧讯" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="彧钱包" transform="translate(-178.000000, -352.000000)">
+            <g id="icon_Receivables" transform="translate(178.000000, 352.000000)">
+                <text id="$" opacity="0.3" font-family="Chalkboard" font-size="14" font-weight="normal" letter-spacing="-0.3376471" fill="#00AB9F">
+                    <tspan x="6.11578488" y="14.5238095">$</tspan>
+                </text>
+                <path d="M2,0.75 C1.30964406,0.75 0.75,1.30964406 0.75,2 L0.75,15.8042802 C0.75,16.3823073 1.1463164,16.8849465 1.70839487,17.019791 L10.0543568,19.0220154 C10.2530465,19.0696817 10.4603918,19.0679147 10.6582403,19.0168691 L18.3122783,17.0421002 C18.864285,16.8996805 19.25,16.4018187 19.25,15.8317357 L19.25,2 C19.25,1.30964406 18.6903559,0.75 18,0.75 L2,0.75 Z" id="矩形-copy" stroke="#00AB9F" stroke-width="1.5" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

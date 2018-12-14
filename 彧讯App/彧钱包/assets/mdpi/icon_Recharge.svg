@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_Recharge@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="彧讯" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="彧钱包" transform="translate(-51.000000, -271.000000)">
+            <g id="icon_Recharge" transform="translate(52.000000, 272.000000)">
+                <text id="$-copy" font-family="Chalkboard" font-size="14" font-weight="normal" letter-spacing="-0.3376471" fill="#00AB9F" fill-opacity="0.3">
+                    <tspan x="6.56022932" y="14">$</tspan>
+                </text>
+                <path d="M17.5092593,5.50194932 L17.5092593,0.579922027 C17.5092593,0.738448205 17.3807484,0.866959064 17.2222222,0.866959064 C17.063696,0.866959064 16.9351852,0.738448205 16.9351852,0.579922027 L16.9351852,5.50194932 C16.9351852,5.34342314 17.063696,5.21491228 17.2222222,5.21491228 C17.3807484,5.21491228 17.5092593,5.34342314 17.5092593,5.50194932 Z M14.9317739,3.30360624 L19.5126706,3.30360624 C19.3676016,3.30360624 19.25,3.18600462 19.25,3.04093567 C19.25,2.89586673 19.3676016,2.77826511 19.5126706,2.77826511 L14.9317739,2.77826511 C15.0768428,2.77826511 15.1944444,2.89586673 15.1944444,3.04093567 C15.1944444,3.18600462 15.0768428,3.30360624 14.9317739,3.30360624 Z" id="合并形状" stroke-opacity="0.3" stroke="#00AB9F" stroke-width="1.5" fill-rule="nonzero"></path>
+                <path d="M9.5,0.116959064 C4.25329488,0.116959064 0,4.37025394 0,9.61695906 C0,14.8636642 4.25329488,19.1169591 9.5,19.1169591 C14.7467051,19.1169591 19,14.8636642 19,9.61695906" id="路径" stroke="#00AB9F" stroke-width="1.5" stroke-linecap="round" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
