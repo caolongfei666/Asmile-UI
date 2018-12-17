@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_chongzhi@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="彧讯" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="交易记录" transform="translate(-16.000000, -308.000000)">
+            <g id="icon_chongzhi" transform="translate(16.000000, 308.000000)">
+                <circle id="椭圆形-copy-3" fill="#FFA700" fill-rule="nonzero" cx="20" cy="20" r="20"></circle>
+                <g id="icon_Recharge" transform="translate(10.000000, 10.000000)">
+                    <text id="$-copy" font-family="Chalkboard" font-size="14" font-weight="normal" letter-spacing="-0.3376471" fill="#FFFFFF">
+                        <tspan x="6.56022932" y="14">$</tspan>
+                    </text>
+                    <path d="M17.5092593,5.50194932 L17.5092593,0.579922027 C17.5092593,0.738448205 17.3807484,0.866959064 17.2222222,0.866959064 C17.063696,0.866959064 16.9351852,0.738448205 16.9351852,0.579922027 L16.9351852,5.50194932 C16.9351852,5.34342314 17.063696,5.21491228 17.2222222,5.21491228 C17.3807484,5.21491228 17.5092593,5.34342314 17.5092593,5.50194932 Z M14.9317739,3.30360624 L19.5126706,3.30360624 C19.3676016,3.30360624 19.25,3.18600462 19.25,3.04093567 C19.25,2.89586673 19.3676016,2.77826511 19.5126706,2.77826511 L14.9317739,2.77826511 C15.0768428,2.77826511 15.1944444,2.89586673 15.1944444,3.04093567 C15.1944444,3.18600462 15.0768428,3.30360624 14.9317739,3.30360624 Z" id="合并形状" stroke="#FFFFFF" stroke-width="1.5" fill-rule="nonzero"></path>
+                    <path d="M9.5,1 C4.25329488,1 0,5.25329488 0,10.5 C0,15.7467051 4.25329488,20 9.5,20 C14.7467051,20 19,15.7467051 19,10.5" id="路径" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
