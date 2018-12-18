@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>mdpi/icon_addhuilv</title>
+    <desc>Created with Sketch.</desc>
+    <g id="钱包" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="彧钱包" transform="translate(-178.000000, -187.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M187,196 L187,188 C187,187.447715 187.447715,187 188,187 C188.552285,187 189,187.447715 189,188 L189,196 L197,196 C197.552285,196 198,196.447715 198,197 C198,197.552285 197.552285,198 197,198 L189,198 L189,206 C189,206.552285 188.552285,207 188,207 C187.447715,207 187,206.552285 187,206 L187,198 L179,198 C178.447715,198 178,197.552285 178,197 C178,196.447715 178.447715,196 179,196 L187,196 Z" id="icon_addhuilv"></path>
+        </g>
+    </g>
+</svg>
