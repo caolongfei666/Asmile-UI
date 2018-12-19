@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_pay@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="钱包" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="交易记录" transform="translate(-16.000000, -244.000000)" fill-rule="nonzero">
+            <g id="icon_pay" transform="translate(16.000000, 244.000000)">
+                <circle id="椭圆形-copy-2" fill="#FF6F00" cx="20" cy="20" r="20"></circle>
+                <g id="icon_shop" transform="translate(10.000000, 10.000000)" stroke="#FFFFFF" stroke-width="1.5">
+                    <path d="M3.56426571,0.75 C3.09555773,0.75 2.61395714,1.22575781 2.54939058,1.82012677 L0.754626658,18.3418659 C0.701568909,18.8302902 1.14011116,19.25 1.82617855,19.25 L17.8748824,19.25 C18.5609498,19.25 18.999492,18.8302902 18.9464343,18.3418659 L17.1516703,1.82012677 C17.0871038,1.22575781 16.6055032,0.75 16.1367952,0.75 L3.56426571,0.75 Z" id="矩形"></path>
+                    <path d="M6.66666667,4.16666667 C6.66666667,6.18370662 8.23367004,7.81884058 10.1666667,7.81884058 C12.0996633,7.81884058 13.6666667,6.18370662 13.6666667,4.16666667" id="路径" stroke-linecap="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
