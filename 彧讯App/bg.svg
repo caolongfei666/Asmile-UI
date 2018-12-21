@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="15px" viewBox="0 0 14 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>mdpi/bg</title>
+    <desc>Created with Sketch.</desc>
+    <g id="彧讯首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页“+”" transform="translate(-343.000000, -59.000000)" fill="#474749" fill-rule="nonzero">
+            <g id="展开栏" transform="translate(228.000000, 59.000000)">
+                <path d="M122.894678,0.554306111 L128.555317,11.8914787 C129.048741,12.8797127 128.647618,14.0808339 127.659384,14.5742581 C127.381935,14.7127884 127.076072,14.7849022 126.765961,14.7849022 L117.234039,14.7849022 C116.12947,14.7849022 115.234039,13.8894717 115.234039,12.7849022 C115.234039,12.4747911 115.306153,12.1689283 115.444683,11.8914787 L121.105322,0.554306111 C121.352034,0.0601891364 121.952595,-0.140372142 122.446712,0.106339957 C122.640637,0.203166549 122.797851,0.360381035 122.894678,0.554306111 Z" id="bg"></path>
+            </g>
+        </g>
+    </g>
+</svg>
