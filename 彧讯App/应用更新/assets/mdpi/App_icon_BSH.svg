@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>App_icon_BSH@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="应用-更新" transform="translate(-288.000000, -244.000000)">
+            <g id="App_icon_BSH" transform="translate(288.000000, 244.000000)">
+                <rect id="矩形" fill="#4796FE" fill-rule="nonzero" x="0" y="0" width="32" height="2.90909091" rx="1.45454545"></rect>
+                <rect id="矩形" fill="#4796FE" fill-rule="nonzero" x="0" y="5.33333333" width="32" height="26.1818182" rx="2"></rect>
+                <rect id="矩形-copy-2" fill="#FFFFFF" fill-rule="nonzero" x="2.66666667" y="8.84848485" width="8" height="2.90909091" rx="1.45454545"></rect>
+                <rect id="矩形-copy-4" fill="#FFFFFF" fill-rule="nonzero" x="21.3333333" y="25.5131984" width="8" height="2.90909091" rx="1.45454545"></rect>
+                <ellipse id="椭圆形" fill="#FFFFFF" fill-rule="nonzero" cx="16.6666667" cy="18.5454545" rx="8.66666667" ry="6.54545455"></ellipse>
+                <text id="BSH" font-family="ArialRoundedMTBold, Arial Rounded MT Bold" font-size="4" font-weight="normal" letter-spacing="-0.04184618" fill="#1E1E1E">
+                    <tspan x="12.5741625" y="19.9179688">BSH</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
