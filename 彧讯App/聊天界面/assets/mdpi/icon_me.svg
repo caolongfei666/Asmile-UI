@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_me@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="聊天" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="聊天-发送" transform="translate(-112.000000, -555.000000)" fill-rule="nonzero">
+            <g id="功能" transform="translate(0.000000, 443.000000)">
+                <g id="icon_me" transform="translate(112.000000, 112.000000)">
+                    <circle id="椭圆形-copy-12" fill="#00AB9F" cx="30" cy="30" r="30"></circle>
+                    <circle id="椭圆形" fill="#FFFFFF" cx="30.5" cy="22.8333333" r="5.83333333"></circle>
+                    <path d="M27.3899265,31 L33.1246794,31 C36.6930459,31 39.829962,33.3632967 40.8142892,36.793215 L40.8258025,36.8333333 C41.5223502,39.2604753 40.1194264,41.7927262 37.6922844,42.489274 C37.2822157,42.6069566 36.8576942,42.6666667 36.4310731,42.6666667 L24.787137,42.6666667 C22.1415375,42.6666667 19.9968554,40.5219845 19.9968554,37.876385 C19.9968554,37.5255411 20.0353991,37.1757591 20.111793,36.8333333 L20.111793,36.8333333 C20.872324,33.4243517 23.8971392,31 27.3899265,31 Z" id="矩形" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

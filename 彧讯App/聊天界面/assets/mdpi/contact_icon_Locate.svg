@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>contact_icon_Locate@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="聊天" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="聊天-发送" transform="translate(-202.000000, -459.000000)" fill-rule="nonzero">
+            <g id="功能" transform="translate(0.000000, 443.000000)">
+                <g id="contact_icon_Locate" transform="translate(202.000000, 16.000000)">
+                    <circle id="椭圆形-copy-9" fill="#00AB9F" cx="30" cy="30" r="30"></circle>
+                    <g id="icon_dingwei2" transform="translate(21.000000, 16.000000)" fill="#FFFFFF">
+                        <path d="M9.73999877,26.8918589 C15.075448,18.5461223 17.7431726,12.5393648 17.7431726,8.87158629 C17.7431726,3.07911518 13.7712281,0 8.87158629,0 C3.97194447,0 0,3.97194447 0,8.87158629 C0,11.9813715 2.68036955,17.980723 8.04110866,26.8696406 L8.04108298,26.8696561 C8.32631045,27.3426064 8.940935,27.4947859 9.41388535,27.2095585 C9.54557106,27.1301413 9.65716736,27.0214242 9.73999877,26.8918589 Z" id="椭圆形"></path>
+                        <circle id="椭圆形" stroke="#00AB9F" cx="9" cy="8" r="4"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
