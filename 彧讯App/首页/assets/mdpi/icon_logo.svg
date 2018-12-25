@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="73px" height="96px" viewBox="0 0 73 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_logo@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#5FB672" offset="0%"></stop>
+            <stop stop-color="#45858A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#39AD6D" offset="0%"></stop>
+            <stop stop-color="#359C78" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="登录" transform="translate(-151.000000, -101.000000)">
+            <g id="icon_logo" transform="translate(151.000000, 104.000000)">
+                <path d="M37,64 C41.4582698,64 45.7035974,63.0882863 49.5597087,61.4411329 C51.7555915,60.5031528 66.4523792,71.9567878 68.3632813,70.5743833 C70.8186607,68.7980873 60.38479,54.0516766 62.2468511,51.6644141 C66.478737,46.2389086 69,39.4138905 69,32 C69,14.326888 54.673112,0 37,0 C19.326888,0 5,14.326888 5,32 C5,49.673112 19.326888,64 37,64 Z" id="椭圆形" stroke="url(#linearGradient-1)" stroke-width="5" fill-rule="nonzero"></path>
+                <path d="M41.8705822,29.5034362 L44.4208766,29.5034362 C45.8062491,29.5034362 46.9293155,30.6265025 46.9293155,32.011875 C46.9293155,32.5509992 46.7556207,33.0757785 46.4339723,33.5084415 L34.9713325,48.9273298 C34.0745418,50.1336414 32.3940548,50.4341379 31.1347902,49.6133615 C29.8749345,48.7922 29.4699706,47.1334183 30.2097027,45.8240906 L35.1070525,37.155769 C34.995242,37.1609839 34.8821802,37.1568363 34.7689463,37.1428737 L31.5769612,36.749279 C29.9676623,36.5508408 28.8239336,35.0853804 29.0223718,33.4760815 C29.0686953,33.1004061 29.1872267,32.7372327 29.3714388,32.406561 L37.576402,17.6781566 C38.0938946,16.7492262 39.0644579,16.1636425 40.12752,16.1389547 L46.0754121,16.000825 C47.7318198,15.9623577 49.1057874,17.2739575 49.1442546,18.9303652 C49.1601352,19.6141854 48.9418596,20.2829008 48.5256081,20.8256687 L41.8705822,29.5034362 Z" id="合并形状" fill="url(#linearGradient-2)" fill-rule="nonzero"></path>
+                <text id="YUU-CHAT" font-family="YuKyo-Bold, YuKyokasho" font-size="14" font-weight="bold" letter-spacing="-0.3376471">
+                    <tspan x="0.240764181" y="89" fill="#000000">YUU</tspan>
+                    <tspan x="31.0918229" y="89" font-family="ArialUnicodeMS, Arial Unicode MS" font-weight="normal" fill="#00AB9F" fill-opacity="0.3"> </tspan>
+                    <tspan x="34.6438242" y="89" font-family="YuKyo_Yoko-Medium, YuKyokasho Yoko" font-weight="400" fill="#000000">CHAT</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

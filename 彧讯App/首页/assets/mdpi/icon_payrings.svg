@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_payrings@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="系统通知" transform="translate(-16.000000, -200.000000)" fill-rule="nonzero">
+            <g id="段文春" transform="translate(0.000000, 184.000000)">
+                <g id="icon_payrings" transform="translate(16.000000, 16.000000)">
+                    <g id="icon_notification">
+                        <circle id="椭圆形-copy-2" fill="#00AB9F" cx="20" cy="20" r="20"></circle>
+                        <path d="M17.2079821,27.5769954 L11.508852,21.8778653 C11.1183277,21.487341 11.1183277,20.854176 11.508852,20.4636517 L11.7715227,20.2009811 C12.162047,19.8104568 12.7952119,19.8104568 13.1857362,20.2009811 L18.2299035,25.2451483 L29.259093,14.2159588 C29.6496173,13.8254345 30.2827823,13.8254345 30.6733066,14.2159588 L30.9359772,14.4786294 C31.3265015,14.8691537 31.3265015,15.5023187 30.9359772,15.892843 L18.9351168,27.8937034 C18.5445925,28.2842277 17.9114275,28.2842277 17.5209033,27.8937034 L17.2582326,27.6310327 C17.2406948,27.613495 17.2239447,27.5954679 17.2079821,27.5769954 Z" id="合并形状" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

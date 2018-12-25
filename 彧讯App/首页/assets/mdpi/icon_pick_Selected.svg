@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_pick_Selected@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="注册" transform="translate(-24.000000, -506.000000)" fill-rule="nonzero">
+            <g id="icon_pick_Selected" transform="translate(24.000000, 506.000000)">
+                <circle id="椭圆形" fill="#00AB9F" cx="9" cy="9" r="9"></circle>
+                <path d="M7.84133759,10.695295 L12.2437393,6.29289322 C12.6342636,5.90236893 13.2674286,5.90236893 13.6579529,6.29289322 C14.0484772,6.68341751 14.0484772,7.31658249 13.6579529,7.70710678 L8.70820541,12.6568542 C8.66132153,12.7037381 8.6109405,12.7449934 8.55790201,12.7806201 C8.55059404,12.7884046 8.543138,12.7961007 8.53553391,12.8037048 C8.14500961,13.1942291 7.51184464,13.1942291 7.12132034,12.8037048 L4.29289322,9.97527771 C3.90236893,9.58475342 3.90236893,8.95158844 4.29289322,8.56106415 C4.68341751,8.17053986 5.31658249,8.17053986 5.70710678,8.56106415 L7.84133759,10.695295 Z" id="合并形状" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
