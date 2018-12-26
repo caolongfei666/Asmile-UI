@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>contact_icon_file@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="聊天" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="聊天-发送" transform="translate(-292.000000, -459.000000)" fill-rule="nonzero">
+            <g id="功能" transform="translate(0.000000, 443.000000)">
+                <g id="contact_icon_file" transform="translate(292.000000, 16.000000)">
+                    <circle id="椭圆形-copy-10" fill="#00AB9F" cx="30" cy="30" r="30"></circle>
+                    <g id="icon_file" transform="translate(21.000000, 20.000000)">
+                        <rect id="矩形" fill="#FFFFFF" x="0" y="3.3" width="22" height="15.4" rx="2"></rect>
+                        <path d="M0.749176025,6.33699341 L0.749176025,1.83699341 C0.749176025,1.28470866 1.19689128,0.836993408 1.74917603,0.836993408 L9.51903055,0.836993408 C9.83245883,0.836993408 10.1277556,0.983945277 10.3167584,1.23397574 L12.849176,4.58409322" id="路径-17" stroke="#FFFFFF" stroke-width="1.5"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
