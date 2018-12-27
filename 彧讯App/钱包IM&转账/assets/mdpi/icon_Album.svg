@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="18px" viewBox="0 0 20 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_Album@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="钱包IM&amp;转账" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="扫一扫" transform="translate(-339.000000, -35.000000)" fill-rule="nonzero">
+            <g id="icon_Album" transform="translate(339.000000, 35.000000)">
+                <circle id="椭圆形" fill="#FFFFFF" cx="4.70336914" cy="4.49975586" r="1.5"></circle>
+                <rect id="矩形" stroke="#FFFFFF" stroke-width="1.5" x="0.75" y="0.75" width="18.5" height="16.5" rx="2"></rect>
+                <path d="M4,13.5688049 C4.61504359,11.9477111 5.69459957,11.4073465 7.23866792,11.9477111 C9.55477044,12.758258 9.38938089,13.8743041 11.5660894,13.5688049 C13.7427979,13.2633057 13.3355713,9.35784357 16.5269775,10.0909091" id="路径-13" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>
