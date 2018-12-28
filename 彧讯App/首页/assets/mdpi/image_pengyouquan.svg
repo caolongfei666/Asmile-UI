@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="267px" viewBox="0 0 375 267" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>image_pengyouquan@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="375" height="267"></rect>
+        <linearGradient x1="50%" y1="12.1468418%" x2="50%" y2="98.0460766%" id="linearGradient-3">
+            <stop stop-color="#41C0AC" offset="0%"></stop>
+            <stop stop-color="#00AB9F" stop-opacity="0.513049139" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="87.5609646%" id="linearGradient-4">
+            <stop stop-color="#CDEFC9" stop-opacity="0.413043478" offset="0%"></stop>
+            <stop stop-color="#9FDB98" stop-opacity="0.131623641" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="朋友圈">
+            <g id="title">
+                <g id="路径-7">
+                    <g id="image_pengyouquan">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#00AB9F" fill-rule="nonzero" xlink:href="#path-1"></use>
+                        <path d="M329.079102,117.359341 C319.85591,124.995408 305.618776,149.040636 286.367699,189.495022 C284.511512,201.801953 289.68301,207.955419 301.882191,207.955419 C314.081373,207.955419 318.535414,208.927461 315.244314,210.871545 C301.327757,235.709029 293.394576,251.385145 291.444773,257.899895 C288.520068,267.67202 288.520068,274.359341 301.882191,274.359341 C310.790273,274.359341 333.946606,247.391572 371.351188,193.456036 C374.832237,186.393161 372.477301,180.884769 364.286381,176.930862 C356.09546,172.976954 351.027264,172.075359 349.081791,174.226077 L384.822262,119.380027 C388.395824,114.828496 385.067601,112.141162 374.837591,111.318024 C359.492577,110.083317 339.696289,104.359341 329.079102,117.359341 Z" id="路径-7" fill="url(#linearGradient-3)" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                        <circle id="椭圆形" fill-opacity="0.8" fill="url(#linearGradient-4)" fill-rule="nonzero" mask="url(#mask-2)" cx="229.5" cy="149.5" r="20.5"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -3,9 +3,9 @@
     <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
     <title>icon_comment@2x</title>
     <desc>Created with Sketch.</desc>
-    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="朋友圈" transform="translate(-276.000000, -577.000000)" fill-rule="nonzero">
-            <g id="大牙动态" transform="translate(16.000000, 283.000000)">
+    <g id="朋友圈" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-276.000000, -577.000000)" fill-rule="nonzero" id="大牙动态">
+            <g transform="translate(16.000000, 283.000000)">
                 <g id="icon_comment" transform="translate(260.000000, 294.000000)">
                     <rect id="矩形" stroke="#202125" x="5.79411765" y="7.5" width="6.41176471" height="1" rx="0.5"></rect>
                     <path d="M2,1 C1.44771525,1 1,1.44771525 1,2 L1,13 C1,13.5522847 1.44771525,14 2,14 L6.15888993,14 C6.67561432,14 7.17228572,14.1999908 7.5448273,14.5580646 L9.05966244,16.0140707 L11.0228353,14.4397355 C11.3777575,14.1551113 11.8191133,14 12.2740646,14 L16,14 C16.5522847,14 17,13.5522847 17,13 L17,2 C17,1.44771525 16.5522847,1 16,1 L2,1 Z" id="矩形" stroke="#000000" stroke-width="2"></path>

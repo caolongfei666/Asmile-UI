@@ -3,9 +3,9 @@
     <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
     <title>icon_application@2x</title>
     <desc>Created with Sketch.</desc>
-    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g transform="translate(-177.000000, -626.000000)" fill-rule="nonzero" id="标签栏">
-            <g transform="translate(0.000000, 617.000000)">
+    <g id="朋友圈" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-177.000000, -883.000000)" fill-rule="nonzero" id="标签栏">
+            <g transform="translate(0.000000, 874.000000)">
                 <g id="icon_application" transform="translate(177.000000, 9.000000)">
                     <circle id="椭圆形" stroke="#979797" cx="10.5" cy="10.5" r="10"></circle>
                     <path d="M10.9824449,4.2374678 L13.7739395,10.0800708 C13.9060528,10.3565841 13.9040844,10.6784078 13.7685985,10.9532844 L10.9473347,16.677127 C10.8252496,16.924816 10.5254884,17.0266381 10.2777994,16.904553 C10.1790121,16.855861 10.0990655,16.7759144 10.0503735,16.677127 L7.23140144,10.957934 C7.09461573,10.6804202 7.09398832,10.3552193 7.2297022,10.0771797 L10.0819636,4.23369745 C10.2030921,3.98553923 10.5024581,3.88256128 10.7506163,4.00368975 C10.8520683,4.05320949 10.9337764,4.13560466 10.9824449,4.2374678 Z" id="多边形" fill="#979797" transform="translate(10.500000, 10.454545) rotate(-315.000000) translate(-10.500000, -10.454545) "></path>

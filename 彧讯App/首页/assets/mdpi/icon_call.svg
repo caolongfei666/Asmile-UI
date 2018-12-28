@@ -3,9 +3,9 @@
     <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
     <title>icon_call@2x</title>
     <desc>Created with Sketch.</desc>
-    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g transform="translate(-101.000000, -626.000000)" fill-rule="nonzero" id="标签栏">
-            <g transform="translate(0.000000, 617.000000)">
+    <g id="朋友圈" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-101.000000, -883.000000)" fill-rule="nonzero" id="标签栏">
+            <g transform="translate(0.000000, 874.000000)">
                 <g id="icon_call" transform="translate(101.000000, 9.000000)">
                     <circle id="椭圆形" stroke="#8E8E93" cx="8" cy="5" r="4.5"></circle>
                     <path d="M5.93187359,11.5 C3.33389356,11.5 1.09444558,13.3276812 0.573730386,15.8729427 C0.526828713,16.1021986 0.503198057,16.3356048 0.503198057,16.5696091 C0.503198057,18.4892655 2.05938706,20.0454545 3.97904348,20.0454545 L11.9460484,20.0454545 C12.2298898,20.0454545 12.5125485,20.0088839 12.7870437,19.9366459 C14.5519649,19.472177 15.6061898,17.6648992 15.1417209,15.899978 C14.4593741,13.3071491 12.1151119,11.5 9.43400042,11.5 L5.93187359,11.5 Z" id="矩形" stroke="#979797"></path>

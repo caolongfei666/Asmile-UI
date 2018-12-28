@@ -3,9 +3,9 @@
     <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
     <title>     @2x</title>
     <desc>Created with Sketch.</desc>
-    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="朋友圈" transform="translate(-20.000000, -580.000000)" fill-rule="nonzero">
-            <g id="大牙动态" transform="translate(16.000000, 283.000000)">
+    <g id="朋友圈" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-20.000000, -580.000000)" fill-rule="nonzero" id="大牙动态">
+            <g transform="translate(16.000000, 283.000000)">
                 <g id="-----" transform="translate(4.000000, 297.000000)">
                     <path d="M5.70157065,11.3240975 C8.56719022,8.50282907 10,6.29158814 10,4.69037471 C10,2.09995228 7.76142375,0 5,0 C2.23857625,0 0,2.09995228 0,4.69037471 C0,6.29158587 1.43280572,8.5028228 4.29841716,11.3240855 L4.29840563,11.3240972 C4.68763637,11.7073041 5.31233975,11.7073043 5.70157065,11.3240975 Z" id="椭圆形" fill="#25282D"></path>
                     <circle id="椭圆形" fill="#FFFFFF" cx="5" cy="5" r="2"></circle>
