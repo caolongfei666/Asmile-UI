@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="38px" viewBox="0 0 30 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>weizhi_icon_weizhi@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="聊天" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="所在位置" transform="translate(-173.000000, -147.000000)" fill-rule="nonzero">
+            <g id="weizhi_icon_weizhi" transform="translate(173.000000, 146.818182)">
+                <path d="M15.7011254,37.3153336 C25.2337085,27.942002 30,20.5592215 30,15.1669922 C30,6.88272094 23.2842712,0.166992188 15,0.166992188 C6.71572875,0.166992188 3.55271368e-15,6.88272094 3.55271368e-15,15.1669922 C3.55271368e-15,20.5592181 4.76628555,27.9419927 14.2988567,37.315316 L14.2988394,37.3153335 C14.6879659,37.6979594 15.3119988,37.6979595 15.7011254,37.3153336 Z" id="椭圆形" fill="#00AB9F"></path>
+                <circle id="椭圆形" fill="#FFFFFF" cx="15" cy="15.1669922" r="7"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
