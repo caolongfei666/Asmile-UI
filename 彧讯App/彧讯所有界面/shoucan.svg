@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="105px" height="80px" viewBox="0 0 105 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>mdpi/shoucan</title>
+    <desc>Created with Sketch.</desc>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="收藏-空白页" transform="translate(-135.000000, -307.000000)" fill-rule="nonzero" stroke="#00AB9F" stroke-width="2">
+            <g id="shoucan" transform="translate(135.000000, 307.000000)">
+                <path d="M6.87642697,28 C3.07351282,28 0.501364107,31.0335011 1.08174508,34.8496432 L6.70891932,71.8496432 C7.31086499,75.8075782 10.5078244,79 13.7316584,79 L91.0211955,79 C94.2450295,79 97.4419889,75.8075782 98.0439346,71.8496432 L103.671109,34.8496432 C104.25149,31.0335011 101.679341,28 97.876427,28 L6.87642697,28 Z" id="矩形"></path>
+                <path d="M6.3084815,16.5368203 L99.250816,17.9006348 C99.7344788,14.4927066 99.7990031,14.0380628 100.675884,7.85948526 C101.220358,4.02307469 98.8283408,1 95.335937,1 L10.4169169,1 C6.92451309,1 4.53249549,4.02307469 5.07696968,7.85948526 C5.83482263,13.1993804 5.8973781,13.6401514 6.3084815,16.5368203 Z" id="路径"></path>
+                <rect id="矩形" stroke-opacity="0.5" x="41" y="41" width="23" height="6" rx="2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
