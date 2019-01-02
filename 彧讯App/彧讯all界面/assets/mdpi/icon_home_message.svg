@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_home_message@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页“+”" transform="translate(-252.000000, -83.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="展开栏" transform="translate(228.000000, 59.000000)">
+                <path d="M34.0883094,41.2800329 C39.5935169,40.984017 44,37.5488374 44,32.985114 C44,28.4213905 39.4368968,24 34.0883094,24 C28.7397219,24 24,28.067274 24,32.6309974 C24,35.1606221 25.5297744,37.9967614 27.6281313,39.5125357 C27.8019386,39.6380875 27.1794013,44.2010067 27.6281313,43.9931068 C28.9928478,43.3608236 30.1707787,42.406228 31.7660216,41.2800329 C32.1853249,40.984017 33.6065645,41.3059364 34.0883094,41.2800329 Z" id="icon_home_message"></path>
+            </g>
+        </g>
+    </g>
+</svg>

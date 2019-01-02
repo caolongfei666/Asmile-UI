@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_play@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="朋友圈" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="朋友圈视频" transform="translate(-163.000000, -242.000000)" fill-rule="nonzero">
+            <g id="icon_play" transform="translate(164.000000, 243.000000)">
+                <circle id="椭圆形" stroke="#FFFFFF" stroke-width="2" cx="24" cy="24" r="24"></circle>
+                <path d="M24.7888544,14.5777088 L31.5527864,28.1055728 C32.0467649,29.0935298 31.6463162,30.2948759 30.6583592,30.7888544 C30.3806483,30.9277098 30.0744222,31 29.763932,31 L16.236068,31 C15.1314985,31 14.236068,30.1045695 14.236068,29 C14.236068,28.6895098 14.3083582,28.3832837 14.4472136,28.1055728 L21.2111456,14.5777088 C21.7051241,13.5897518 22.9064702,13.1893031 23.8944272,13.6832816 C24.281482,13.876809 24.595327,14.190654 24.7888544,14.5777088 Z" id="三角形" fill="#FFFFFF" transform="translate(23.000000, 21.000000) rotate(-26.000000) translate(-23.000000, -21.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_saoyisao@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的" transform="translate(-15.000000, -259.000000)" fill-rule="nonzero">
+            <g id="icon_saoyisao" transform="translate(16.000000, 260.000000)">
+                <rect id="矩形" fill="#556A95" x="5.2173913" y="5" width="14.6086957" height="14" rx="2"></rect>
+                <rect id="矩形" fill="#FFFFFF" x="8.34782609" y="11" width="8.34782609" height="2" rx="1"></rect>
+                <path d="M0.982097187,8.22573529 L0.982097187,1.69411765 C0.982097187,0.758482306 1.73586842,0 2.66569236,0 L9.24100292,0" id="路径" stroke="#556A95" stroke-width="2" stroke-linecap="round"></path>
+                <path d="M0.914157123,23.4896427 L0.914157123,16.9985941 C0.914157123,16.0687701 1.67263943,15.3149989 2.60827477,15.3149989 L9.22468102,15.3149989" id="路径-copy" stroke="#556A95" stroke-width="2" stroke-linecap="round" transform="translate(5.069419, 19.402321) rotate(-90.000000) translate(-5.069419, -19.402321) "></path>
+                <path d="M15.2247161,8.24258383 L15.2247161,1.75153524 C15.2247161,0.821711299 15.9831984,0.0679400633 16.9188338,0.0679400633 L23.53524,0.0679400633" id="路径-copy-2" stroke="#556A95" stroke-width="2" stroke-linecap="round" transform="translate(19.379978, 4.155262) rotate(-270.000000) translate(-19.379978, -4.155262) "></path>
+                <path d="M15.2926562,23.4727941 L15.2926562,16.9411765 C15.2926562,16.0055411 16.0464274,15.2470588 16.9762514,15.2470588 L23.5515619,15.2470588" id="路径-copy-3" stroke="#556A95" stroke-width="2" stroke-linecap="round" transform="translate(19.422109, 19.359926) rotate(-180.000000) translate(-19.422109, -19.359926) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

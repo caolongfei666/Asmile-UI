@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="21px" viewBox="0 0 12 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Path@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="钱包IM&amp;转账" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="提现" transform="translate(-16.000000, -32.000000)" fill="#979797" fill-rule="nonzero">
+            <g id="Bars/Navigation/Navigation-Bar" transform="translate(16.000000, 32.000000)">
+                <g id="Pin-Left">
+                    <path d="M3.62132034,10.5 L11.5606602,2.56066017 C12.1464466,1.97487373 12.1464466,1.02512627 11.5606602,0.439339828 C10.9748737,-0.146446609 10.0251263,-0.146446609 9.43933983,0.439339828 L0.439339828,9.43933983 C-0.146446609,10.0251263 -0.146446609,10.9748737 0.439339828,11.5606602 L9.43933983,20.5606602 C10.0251263,21.1464466 10.9748737,21.1464466 11.5606602,20.5606602 C12.1464466,19.9748737 12.1464466,19.0251263 11.5606602,18.4393398 L3.62132034,10.5 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

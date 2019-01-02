@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_language@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的" transform="translate(-16.000000, -308.000000)">
+            <g id="icon_language" transform="translate(16.000000, 308.000000)">
+                <rect id="矩形-copy-5" stroke="#FFA700" fill-rule="nonzero" x="0.5" y="0.5" width="13.6666667" height="14.4" rx="2"></rect>
+                <path d="M13.8095238,8.4 L21.8095238,8.4 C22.9140933,8.4 23.8095238,9.2954305 23.8095238,10.4 L23.8095238,21.8 C23.8095238,22.9045695 22.9140933,23.8 21.8095238,23.8 L11.1428571,23.8 C10.0382876,23.8 9.14285714,22.9045695 9.14285714,21.8 L9.14285714,15.4 L11.8095238,15.4 C12.9140933,15.4 13.8095238,14.5045695 13.8095238,13.4 L13.8095238,8.4 Z" id="合并形状" fill="#FFA700" fill-rule="nonzero"></path>
+                <text id="A" font-family="PingFangSC-Medium, PingFang SC" font-size="9" font-weight="400" letter-spacing="-0.09415387" fill="#FFFFFF">
+                    <tspan x="13.7283626" y="18.4">A</tspan>
+                </text>
+                <text id="文" font-family="PingFangSC-Medium, PingFang SC" font-size="7" font-weight="400" letter-spacing="-0.07323079" fill="#F29A49">
+                    <tspan x="3.63185349" y="9.4">文</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

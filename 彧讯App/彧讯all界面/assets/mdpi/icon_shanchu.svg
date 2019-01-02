@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_shanchu@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="朋友圈" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="动态" transform="translate(-341.000000, -497.000000)" fill-rule="nonzero" stroke="#000000">
+            <g id="icon_shanchu" transform="translate(341.000000, 497.000000)">
+                <rect id="矩形" fill="#D8D8D8" x="0.5" y="3.5" width="17" height="1" rx="0.5"></rect>
+                <path d="M5.25439453,4 C4.41307078,4 3.88138193,4.45611509 3.91960024,4.91743779 L4.83089581,15.9174378 C4.87950529,16.5041896 5.41639116,17 6,17 L12,17 C12.5836088,17 13.1204947,16.5041896 13.1691042,15.9174378 L14.0803998,4.91743779 C14.1186181,4.45611509 13.5869292,4 12.7456055,4 L5.25439453,4 Z" id="矩形" stroke-width="2"></path>
+                <rect id="矩形" fill="#D8D8D8" x="5.5" y="0.5" width="7" height="1" rx="0.5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

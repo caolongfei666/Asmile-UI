@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>chose_icon_gouxuan copy 4@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="选择多个聊天-选择6个联系人" transform="translate(-16.000000, -372.000000)" fill-rule="nonzero">
+            <g id="chose_icon_gouxuan-copy-4" transform="translate(16.000000, 372.000000)">
+                <circle id="椭圆形" fill="#00AB9F" cx="12" cy="12" r="12"></circle>
+                <g id="icon_gouxuan" transform="translate(5.000000, 7.000000)" fill="#FFFFFF">
+                    <path d="M4.52831104,9.54629279 C4.48335968,9.52000159 4.44078186,9.4880856 4.40159316,9.45054483 L0.191288975,5.41728833 C-0.0562116976,5.18019532 -0.0646487744,4.78735452 0.172444237,4.53985385 C0.178590198,4.5334381 0.184873226,4.52715507 0.191288975,4.52100911 C0.452840982,4.27045564 0.865360121,4.27045564 1.12691213,4.52100911 L4.90863868,8.14371011 L12.8691829,0.517915104 C13.1307349,0.267361632 13.543254,0.267361632 13.804806,0.517915104 C14.0523067,0.755008115 14.0607438,1.14784891 13.8236508,1.39534959 C13.8175048,1.40176534 13.8112218,1.40804837 13.804806,1.41419433 L5.38419765,9.48070733 C5.14790693,9.70706178 4.78840231,9.7289236 4.52831104,9.54629279 Z" id="icon_complete"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
