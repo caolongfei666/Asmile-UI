@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="22px" height="15px" viewBox="0 0 22 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
     <title>En@2x</title>
     <desc>Created with Sketch.</desc>
-    <g id="摩尔支付开放平台" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="首页" transform="translate(-1283.000000, -31.000000)">
-            <g id="En" transform="translate(1284.000000, 32.000000)">
-                <text font-family="PingFangSC-Regular, PingFang SC" font-size="20" font-weight="normal" letter-spacing="-0.278974444" fill="#FFFFFF">
-                    <tspan x="6.31897444" y="25">En</tspan>
+    <g id="摩尔支付开放平台" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="PingFangSC-Regular, PingFang SC" font-size="20" font-weight="normal" letter-spacing="-0.278974444">
+        <g id="首页" transform="translate(-1278.000000, -41.000000)" fill="#FFFFFF">
+            <g id="En" transform="translate(1277.000000, 35.000000)">
+                <text>
+                    <tspan x="0.318974444" y="21">En</tspan>
                 </text>
-                <circle id="椭圆形" stroke="#FFFFFF" fill-rule="nonzero" cx="18" cy="18" r="18"></circle>
             </g>
         </g>
     </g>
