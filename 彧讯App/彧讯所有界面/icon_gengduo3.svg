@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>mdpi/icon_gengduo3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="群组信息" transform="translate(-163.000000, -405.000000)" fill-rule="nonzero">
+            <g id="icon_gengduo3" transform="translate(164.000000, 406.000000)">
+                <circle id="椭圆形-copy-13" stroke="#979797" cx="24" cy="24" r="24"></circle>
+                <g id="分组-2" transform="translate(13.500000, 22.500000)" fill="#979797">
+                    <circle id="椭圆形" cx="1.5" cy="1.5" r="1.5"></circle>
+                    <circle id="椭圆形-copy-12" cx="10.5" cy="1.5" r="1.5"></circle>
+                    <circle id="椭圆形-copy-16" cx="19.5" cy="1.5" r="1.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
