@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>mdpi/im_icon_call</title>
+    <desc>Created with Sketch.</desc>
+    <g id="聊天" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="聊天-发送" transform="translate(-202.000000, -556.000000)">
+            <g id="im_icon_call" transform="translate(202.000000, 556.000000)">
+                <g id="分组-3">
+                    <circle id="椭圆形-copy-13" fill="#00AB9F" fill-rule="nonzero" cx="30" cy="30" r="30"></circle>
+                    <g id="电话" transform="translate(19.000000, 19.000000)">
+                        <rect id="矩形" fill="#000000" opacity="0" x="2.2" y="5.6" width="17.6" height="17.6"></rect>
+                        <path d="M15.8936774,12.9094366 C14.7459572,12.9094366 13.9058646,13.9033431 12.9123784,13.9033431 C11.9197328,13.9033431 7.44946525,9.52889404 7.44946525,8.44042991 C7.44946525,7.35574809 8.44169065,6.8283263 8.44169065,5.70876318 C8.44169065,4.90439239 5.4616524,0 4.22063519,0 C2.97961798,-0.000420240001 0,2.20424492 0,4.22063522 C0,10.1176733 10.8640487,21.3536488 17.6314377,21.3536488 C19.4948547,21.3536488 21.8533337,19.3960945 21.8533337,17.1317529 C21.8533337,16.3555393 17.010719,12.9094366 15.8936774,12.9094366 Z" id="路径" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
