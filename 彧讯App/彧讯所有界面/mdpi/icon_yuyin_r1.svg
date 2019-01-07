@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>mdpi/icon_yuyin_r1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="聊天" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="聊天-语音" transform="translate(-282.000000, -363.000000)" fill-rule="nonzero">
+            <g id="icon_yuyin_r1" transform="translate(282.000000, 363.000000)">
+                <g id="分组-4">
+                    <rect id="矩形" fill="#FFFFFF" x="0" y="0" width="16" height="16"></rect>
+                    <g id="分组-3" transform="translate(2.000000, 1.000000)" fill="#979797">
+                        <path d="M0.6046875,7.66875 C0.6046875,8.68125 1.1859375,9.50625 1.903125,9.50625 C2.6203125,9.50625 3.2015625,8.6859375 3.2015625,7.66875 C3.2015625,6.65625 2.6203125,5.83125 1.903125,5.83125 C1.1859375,5.83125 0.6046875,6.6515625 0.6046875,7.66875 Z" id="形状"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
