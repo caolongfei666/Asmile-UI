@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_call@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="手机联系人" transform="translate(-101.000000, -626.000000)" fill-rule="nonzero">
+            <g id="标签栏" transform="translate(0.000000, 617.000000)">
+                <g id="icon_call" transform="translate(101.000000, 9.000000)">
+                    <circle id="椭圆形" fill="#00AB9F" cx="8" cy="5" r="5"></circle>
+                    <path d="M5.93187359,11 L9.43400042,11 C12.3422454,11 14.8851045,12.9602439 15.6252571,15.7727273 L15.6252571,15.7727273 C16.1600046,17.8046981 14.9462653,19.8854345 12.9142944,20.4201821 C12.5982654,20.5033504 12.2728378,20.5454545 11.9460484,20.5454545 L3.97904348,20.5454545 C1.78324469,20.5454545 0.00319805657,18.7654079 0.00319805657,16.5696091 C0.00319805657,16.3019433 0.0302279806,16.0349616 0.0838764547,15.7727273 L0.0838764547,15.7727273 C0.652196644,12.9947721 3.09638018,11 5.93187359,11 Z" id="矩形" fill="#00AB9F"></path>
+                    <rect id="矩形" stroke="#00AB9F" x="14.9429584" y="6.8" width="4.77718336" height="1" rx="0.5"></rect>
+                    <rect id="矩形-copy-8" stroke="#00AB9F" fill="#D8D8D8" x="15.9058223" y="9.95" width="3.81431947" height="1" rx="0.5"></rect>
+                    <rect id="矩形-copy-9" stroke="#00AB9F" fill="#D8D8D8" x="16.8686862" y="13.1" width="2.85145558" height="1" rx="0.5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

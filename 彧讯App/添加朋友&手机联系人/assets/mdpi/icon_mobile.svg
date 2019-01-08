@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_mobile@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="添加朋友" transform="translate(-16.000000, -128.000000)" fill-rule="nonzero">
+            <g id="系统通知窗口" transform="translate(0.000000, 112.000000)">
+                <g id="icon_mobile" transform="translate(16.000000, 16.000000)">
+                    <circle id="椭圆形-copy-2" fill="#00AB9F" cx="20" cy="20" r="20"></circle>
+                    <g id="mobile" transform="translate(13.500000, 10.000000)">
+                        <rect id="矩形" fill="#FFFFFF" x="0" y="0" width="12" height="20" rx="1"></rect>
+                        <rect id="矩形" fill="#00AB9F" x="1" y="1" width="10" height="15.5"></rect>
+                        <circle id="椭圆形" fill="#00AB9F" cx="5.98730469" cy="18.2929688" r="1"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
