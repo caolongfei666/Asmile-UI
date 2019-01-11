@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_biaoqing@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="钱包IM&amp;转账" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="聊天-new转账" transform="translate(-303.000000, -630.000000)" fill-rule="nonzero">
+            <g id="聊天控件" transform="translate(0.000000, 618.000000)">
+                <g id="icon_biaoqing" transform="translate(303.000000, 12.000000)">
+                    <path d="M5.34140625,15.6239682 C6.73075361,17.7715969 9.14700722,19.1928847 11.8952204,19.1928847 C14.6536443,19.1928847 17.0776374,17.7610159 18.464478,15.6" id="路径" stroke="#00AB9F" stroke-width="1.5" stroke-linecap="round"></path>
+                    <circle id="椭圆形-copy-6" stroke="#00AB9F" stroke-width="1.5" cx="12" cy="12" r="11.25"></circle>
+                    <circle id="椭圆形" fill="#00AB9F" cx="6.6" cy="10.2" r="1.8"></circle>
+                    <circle id="椭圆形-copy-7" fill="#00AB9F" cx="17.4" cy="10.2" r="1.8"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
