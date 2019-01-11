@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="6px" viewBox="0 0 27 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>mdpi/loading1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="钱包IM&amp;转账" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="转账-加载中动画" transform="translate(-173.000000, -362.000000)" fill-rule="nonzero">
+            <g id="loading1" transform="translate(173.000000, 362.000000)">
+                <circle id="Yuu-Pay_white-dot" fill="#FFFFFF" cx="3" cy="3" r="3"></circle>
+                <circle id="Yuu-Pay_gray-dot" fill="#9A9C99" cx="13" cy="3" r="3"></circle>
+                <circle id="Yuu-Pay_gray2-dot" fill="#9A9C99" cx="24" cy="3" r="3"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
