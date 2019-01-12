@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="180px" height="144px" viewBox="0 0 180 144" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="164px" height="80px" viewBox="0 0 164 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
     <title>IM_transfer_left@2x</title>
     <desc>Created with Sketch.</desc>
@@ -7,13 +7,12 @@
         <polygon id="path-1" points="0 0.0414622182 67.963811 0.0414622182 67.963811 38.6293959 0 38.6293959"></polygon>
     </defs>
     <g id="钱包IM&amp;转账" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="聊天-new转账" transform="translate(-64.000000, -297.000000)">
+        <g id="聊天-new转账" transform="translate(-72.000000, -305.000000)">
             <g id="转账1-copy" transform="translate(64.000000, 297.000000)">
-                <g id="IM_transfer_left">
-                    <rect id="矩形" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="180" height="144" rx="8"></rect>
-                    <path d="M16,8 L48,8 L48,88 L16,88 C11.581722,88 8,84.418278 8,80 L8,16 C8,11.581722 11.581722,8 16,8 Z" id="矩形" fill="#4DC4BC" fill-rule="nonzero"></path>
-                    <path d="M48,8 L164,8 C168.418278,8 172,11.581722 172,16 L172,80 C172,84.418278 168.418278,88 164,88 L48,88 L48,8 Z" id="矩形-copy" fill="#00AB9F" fill-rule="nonzero"></path>
-                    <g id="money" transform="translate(87.000000, 40.000000)">
+                <g id="IM_transfer_left" transform="translate(8.000000, 8.000000)">
+                    <path d="M8,0 L40,0 L40,80 L8,80 C3.581722,80 5.41083001e-16,76.418278 0,72 L0,8 C-5.41083001e-16,3.581722 3.581722,8.11624501e-16 8,0 Z" id="矩形" fill="#4DC4BC" fill-rule="nonzero"></path>
+                    <path d="M40,0 L156,0 C160.418278,-8.11624501e-16 164,3.581722 164,8 L164,72 C164,76.418278 160.418278,80 156,80 L40,80 L40,0 Z" id="矩形-copy" fill="#00AB9F" fill-rule="nonzero"></path>
+                    <g id="money" transform="translate(79.000000, 32.000000)">
                         <g transform="translate(0.000000, 0.019867)">
                             <mask id="mask-2" fill="white">
                                 <use xlink:href="#path-1"></use>
