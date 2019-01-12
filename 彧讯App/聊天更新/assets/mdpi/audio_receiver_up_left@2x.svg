@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="9px" viewBox="0 0 19 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>audio_receiver_up_left@2x@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect x="12" y="11" width="19" height="19" id="rect-1"></rect>
+    </defs>
+    <g id="聊天" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="聊天-视频icon更新" transform="translate(-76.000000, -323.000000)">
+            <g id="自己的聊天框-copy" transform="translate(64.000000, 307.000000)">
+                <g id="audio_receiver_up_left@2x">
+                    <image x="12" y="11" width="19" height="19" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAmCAYAAACoPemuAAAABGdBTUEAALGOfPtRkwAAAk9JREFUWAntlU1rE1EUhjuTRELQLsSARVopUtFFXVVc19KNPyCbrlKQQL4IWfkHupd8LSSQhSuzLihtBV3opuKiH5uClIqaShZCSdOmMTM+J1CYxmTmTtHdvXCZc895z7nvfefM3LExPbQCWgGtgFZAK6AVcFPAcAs6Y4VCYdy27ZlQKHTTsqwJ7AnTNMexw4ZhhFmHBY99in2KKfOIdQNMg7wf3W73SzabPRKc13AlViwW7wUCgblerzdLoUmvYorxAw60A/nNdDq9NyrnL2L1ev1Ks9l8TMICJ701KvFf+FHzG3MjGo2+i8ViZ86aF4iVSqVHBJc4zQ0n6H/bkGuy58tMJvPpfK8+MVQKoNIyCs2fB3w+bV7PPsVt8qZ5mD7z+3BqvE0mkzWIWkHxQCoLqYc+ix2A36apd9vt9l4+nz+R/FqtFm61WjMUv89yFpJ3xK8y4LBQLpevgX1uYMzjeKqSKCdhbDBf53K5nyo51Wr1eqfTWSTnCfiQSg6YFwZ9tcKpplUSkLqUSqU+qmAHMZVK5QFf97NB/7A1AuxLL9weFhz0Ae5clpTUone2qHE8WHfYGtyUqdqo4LrDivjxUePCL2FUrnAyYfd7FMDp5zVuOteXsanxRjGvLYp99wJD3goGg6teOK94JBJZh9yhF474IThzzQ0IqTPIVxOJRMMNpxKLx+Nyj66A3fXAf+7/YLkT5QpalKYjkYchF+1X5hbEP9C4vzwK+Q6zp/wJ5ph32U/u4avMFvZ79nuFrYdWQCugFdAKaAW0Ai4K/AGGzeMHQU2vRgAAAABJRU5ErkJggg=="></image>
+                    <use fill="#000000" fill-rule="evenodd" xlink:href="#rect-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
