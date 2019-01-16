@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>video_left@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect x="0" y="0" width="19" height="19" id="rect-1"></rect>
+    </defs>
+    <g id="聊天" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="聊天-更新" transform="translate(-79.000000, -374.000000)">
+            <g id="video_left" transform="translate(79.000000, 374.000000)">
+                <rect id="矩形" fill-opacity="0.2" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="19" height="19"></rect>
+                <g id="video_left@2x">
+                    <image x="0" y="0" width="19" height="19" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAmCAYAAACoPemuAAAABGdBTUEAALGN5fIAKQAAAhBJREFUWAntVztLA0EQvtszAa1EcqBYqFWIYmNjp4WCYGMXsI1EQh6VlSAIVlZWeRYGLCxMp5YmhaU/wSoIImJQrK4xD78Jl5Bk15Dz7oyBHVh2Zm4e33632b0oihTJgGRAMjDaDKgt+MlkclVV1U3YCxgTLb/N2UB+udFoFOPx+IOVWk1gqVRqD0kbVhJ/EVuKxWLng+YxYuoPQBGeDbPXQNiY+foGCrYbZKXXGJrRnuIE++IDzncUm8fswXBChL2oMPqp2Wx2HWoA44aAcRsdYO6i0egF5no+n9cNwziGPoVYu8L1ooK5XG4mnU7vQ/WTjV4BRkqnwFnz+XyXBIr8oVCoomnabWeMU3qhUNCw73aq1eopajZBUW2w5yPGugROAlTrcirKV49t28xkMrOVSiUOAuZExTjGEORBwnYrGKsar9frWy3bqRk1D1BLCIp6cIyZjXdxtq0wxt4gy1jVpOl3cpruV+wnYJTjx6r8ANUv37VnolfpWjMrhSUwAVuvAl/bNTTGvF7vGVA8tZH0KEMDFg6Hn3VdP8LhfQVM3Dk5NGBEUDAYrEUikWv8+g9hPpKPBIf8Jx0X9DEnvMMoyGGhXpwkEokXgDnBbbCG42kRLJYIWBljiYt2x0G9hAJADTy4N4fCgLQojHTBaaUXM7/FSy7g6C1ZsvLd375v/tufkd5VSVsyIBmQDIwaA9/tKJbqJ5bpiAAAAABJRU5ErkJggg=="></image>
+                    <use fill="#000000" fill-rule="evenodd" xlink:href="#rect-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

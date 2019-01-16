@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>audio_receiver_up_right@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect x="0" y="0" width="19" height="19" id="rect-1"></rect>
+    </defs>
+    <g id="聊天" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="聊天-更新" transform="translate(-276.000000, -438.000000)">
+            <g id="分组-2" transform="translate(178.000000, 427.000000)">
+                <g id="audio_receiver_up_right" transform="translate(98.000000, 11.000000)">
+                    <rect id="矩形" fill-opacity="0.2" fill="#A6E8D4" fill-rule="nonzero" x="0" y="0" width="19" height="19"></rect>
+                    <g id="audio_receiver_up_left@2x-copy">
+                        <image x="0" y="0" width="19" height="19" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAmCAYAAACoPemuAAAABGdBTUEAALGN5fIAKQAAAk9JREFUWAntlU1rE1EUhjuTRELQLsSARVopUtFFXVVc19KNPyCbrlKQQL4IWfkHupd8LSSQhSuzLihtBV3opuKiH5uClIqaShZCSdOmMTM+J1CYxmTmTtHdvXCZc895z7nvfefM3LExPbQCWgGtgFZAK6AVcFPAcAs6Y4VCYdy27ZlQKHTTsqwJ7AnTNMexw4ZhhFmHBY99in2KKfOIdQNMg7wf3W73SzabPRKc13AlViwW7wUCgblerzdLoUmvYorxAw60A/nNdDq9NyrnL2L1ev1Ks9l8TMICJ701KvFf+FHzG3MjGo2+i8ViZ86aF4iVSqVHBJc4zQ0n6H/bkGuy58tMJvPpfK8+MVQKoNIyCs2fB3w+bV7PPsVt8qZ5mD7z+3BqvE0mkzWIWkHxQCoLqYc+ix2A36apd9vt9l4+nz+R/FqtFm61WjMUv89yFpJ3xK8y4LBQLpevgX1uYMzjeKqSKCdhbDBf53K5nyo51Wr1eqfTWSTnCfiQSg6YFwZ9tcKpplUSkLqUSqU+qmAHMZVK5QFf97NB/7A1AuxLL9weFhz0Ae5clpTUone2qHE8WHfYGtyUqdqo4LrDivjxUePCL2FUrnAyYfd7FMDp5zVuOteXsanxRjGvLYp99wJD3goGg6teOK94JBJZh9yhF474IThzzQ0IqTPIVxOJRMMNpxKLx+Nyj66A3fXAf+7/YLkT5QpalKYjkYchF+1X5hbEP9C4vzwK+Q6zp/wJ5ph32U/u4avMFvZ79nuFrYdWQCugFdAKaAW0Ai4K/AGGzeMHQU2vRgAAAABJRU5ErkJggg=="></image>
+                        <use fill="#000000" fill-rule="evenodd" xlink:href="#rect-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
