@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="112px" height="112px" viewBox="0 0 112 112" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>transfer_blank_page@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="无交易记录缺省页" transform="translate(-132.000000, -278.000000)" fill-rule="nonzero">
+            <g id="transfer_blank_page" transform="translate(134.000000, 280.000000)">
+                <circle id="椭圆形" stroke="#C6C6C8" stroke-width="3" cx="54" cy="54" r="54"></circle>
+                <g id="分组-2" transform="translate(30.000000, 30.000000)">
+                    <g id="分组" transform="translate(29.069767, 25.581395)">
+                        <circle id="椭圆形" stroke="#C6C6C8" stroke-width="3" cx="10.4651163" cy="10.4651163" r="10.4651163"></circle>
+                        <rect id="矩形" fill="#C6C6C8" x="9.30232558" y="3.48837209" width="2.3255814" height="9.30232558" rx="1.1627907"></rect>
+                        <path d="M13.298584,7.56736578 L13.6241654,7.56736578 C14.1764501,7.56736578 14.6241654,8.01508103 14.6241654,8.56736578 L14.6241654,14.7069007 C14.6241654,15.2591854 14.1764501,15.7069007 13.6241654,15.7069007 L13.298584,15.7069007 C12.7462992,15.7069007 12.298584,15.2591854 12.298584,14.7069007 L12.298584,8.56736578 C12.298584,8.01508103 12.7462992,7.56736578 13.298584,7.56736578 Z" id="矩形-copy-4" fill="#C6C6C8" transform="translate(13.461375, 11.637133) rotate(-90.000000) translate(-13.461375, -11.637133) "></path>
+                    </g>
+                    <path d="M27.5191906,47.6744186 L4.06976744,47.6744186 C1.82209695,47.6744186 0,45.8523217 0,43.6046512 L0,4.06976744 C0,1.82209695 1.82209695,0 4.06976744,0 L36.627907,0 C38.8755775,0 40.6976744,1.82209695 40.6976744,4.06976744 L40.6976744,19.8560138" id="路径" stroke="#C6C6C8" stroke-width="3" stroke-linecap="round"></path>
+                    <rect id="矩形" fill="#D8D8D8" x="6.97674419" y="9.30232558" width="27.9069767" height="3.48837209" rx="1.5"></rect>
+                    <rect id="矩形-copy" fill="#D8D8D8" x="6.97674419" y="17.4418605" width="27.9069767" height="3.48837209" rx="1.5"></rect>
+                    <rect id="矩形-copy-2" fill="#D8D8D8" x="6.97674419" y="26.744186" width="16.2790698" height="3.48837209" rx="1.5"></rect>
+                    <rect id="矩形-copy-3" fill="#D8D8D8" x="6.97674419" y="36.0465116" width="11.627907" height="3.48837209" rx="1.5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
