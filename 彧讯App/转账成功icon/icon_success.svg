@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>mdpi/icon_success</title>
+    <desc>Created with Sketch.</desc>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页-copy" transform="translate(-16.000000, -128.000000)">
+            <g id="系统通知窗口" transform="translate(0.000000, 112.000000)">
+                <g id="icon_success" transform="translate(16.000000, 16.000000)">
+                    <circle id="椭圆形-copy-2" fill="#00AB9F" fill-rule="nonzero" cx="20" cy="20" r="20"></circle>
+                    <text id="$" font-family="PingFangSC-Regular, PingFang SC" font-size="20" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="14" y="27">$</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
