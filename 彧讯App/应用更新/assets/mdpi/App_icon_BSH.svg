@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>App_icon_BSH@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="93.0014829%" id="linearGradient-1">
+            <stop stop-color="#65BE77" offset="0%"></stop>
+            <stop stop-color="#26B172" offset="50.1304785%"></stop>
+            <stop stop-color="#3E9092" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="应用更新" transform="translate(-167.000000, -366.000000)">
+            <g id="App_icon_BSH" transform="translate(167.000000, 366.000000)">
+                <g id="分组" fill-rule="nonzero">
+                    <rect id="矩形" fill="#64BD7A" x="-3.55271368e-15" y="-5.99520433e-15" width="42" height="3.81818182" rx="1.90909091"></rect>
+                    <rect id="矩形" fill="url(#linearGradient-1)" x="-3.55271368e-15" y="7" width="42" height="34.3636364" rx="2"></rect>
+                </g>
+                <rect id="矩形-copy-2" fill="#FFFFFF" fill-rule="nonzero" x="3.5" y="11.6136364" width="10.5" height="3.81818182" rx="1.90909091"></rect>
+                <rect id="矩形-copy-4" fill="#FFFFFF" fill-rule="nonzero" x="28" y="33.4860729" width="10.5" height="3.81818182" rx="1.90909091"></rect>
+                <ellipse id="椭圆形" fill="#FFFFFF" fill-rule="nonzero" cx="21.875" cy="24.3409091" rx="11.375" ry="8.59090909"></ellipse>
+                <text id="BSH" font-family="ArialRoundedMTBold, Arial Rounded MT Bold" font-size="4" font-weight="normal" letter-spacing="-0.04184618" fill="#1E1E1E">
+                    <tspan x="17.8252204" y="25.673584">BSH</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
