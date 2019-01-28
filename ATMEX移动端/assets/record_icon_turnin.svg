@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>record_icon_turnin@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ATMEX移动端" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="账单合约" transform="translate(-16.000000, -371.000000)" fill-rule="nonzero">
+            <g id="账单" transform="translate(0.000000, 112.000000)">
+                <g id="record_icon_turnin" transform="translate(16.000000, 259.000000)">
+                    <circle id="椭圆形-copy-3" fill="#347DE1" cx="16" cy="16" r="16"></circle>
+                    <g id="分组" transform="translate(9.000000, 8.000000)">
+                        <path d="M13.5801853,2.99802338 C12.2009463,1.17665129 10.0149551,4.97379915e-14 7.55414233,4.97379915e-14 C3.38210472,4.97379915e-14 -6.39488462e-14,3.38210472 -6.39488462e-14,7.55414233 C-6.39488462e-14,11.7261799 3.38210472,15.1082847 7.55414233,15.1082847" id="路径" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+                        <path d="M11.2031253,8.16247331 L15.6666667,8.16247331 C16.2189514,8.16247331 16.6666667,8.61018856 16.6666667,9.16247331 L16.6666667,9.49580664 L10,9.49580664 L8,9.49580664 L11.2031253,6.66666667 L11.2031253,8.16247331 Z" id="合并形状" fill="#FFFFFF"></path>
+                        <path d="M12.5364587,12.1624733 L17,12.1624733 C17.5522847,12.1624733 18,12.6101886 18,13.1624733 L18,13.4958066 L11.3333333,13.4958066 L9.33333333,13.4958066 L12.5364587,10.6666667 L12.5364587,12.1624733 Z" id="合并形状-copy" fill="#FFFFFF" transform="translate(13.666667, 12.081237) rotate(-180.000000) translate(-13.666667, -12.081237) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

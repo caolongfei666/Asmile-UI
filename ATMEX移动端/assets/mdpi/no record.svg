@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="69px" height="86px" viewBox="0 0 69 86" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>no record@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.0156571725 0.0139908872 9.0214135 0.0139908872 9.0214135 13.827558 0.0156571725 13.827558"></polygon>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="102.544341%" id="linearGradient-3">
+            <stop stop-color="#21304D" offset="0%"></stop>
+            <stop stop-color="#182434" stop-opacity="0.211531929" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="ATMEX移动端" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="搜索无记录" transform="translate(-153.000000, -184.000000)">
+            <g id="no-record" transform="translate(156.000000, 184.000000)">
+                <g id="LOGO" transform="translate(13.000000, 21.000000)">
+                    <g id="分组-2">
+                        <g id="分组" transform="translate(7.091272, 0.049894)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Clip-2"></g>
+                            <path d="M9.0214135,13.827558 L1.23449456,0.340214935 C1.05478512,0.0289656085 0.653074171,-0.078681172 0.34188873,0.10102826 C0.0306394041,0.280737693 -0.0770073764,0.682448646 0.102702056,0.993697972 L7.28021884,13.4255915 L9.0214135,13.827558 Z" id="Fill-1" fill="#347DE1" mask="url(#mask-2)"></path>
+                        </g>
+                        <path d="M1.60407119,13.484909 L3.04519645,10.8139911 C3.21583417,10.4977588 3.09668803,10.099306 2.78039176,9.92860435 C2.4640955,9.75796663 2.06570658,9.87711277 1.89500498,10.1934729 L0.0772118094,13.5624658 C0.0182456502,13.6717097 -0.00539192182,13.7906642 0.000996611143,13.9067438 L1.60407119,13.484909 Z" id="Fill-3" fill="#347DE1"></path>
+                        <path d="M11.8271294,12.8302057 L7.25658127,3.20536975 C7.10242597,2.88070451 6.71068113,2.74124283 6.38601588,2.89539813 C6.06135064,3.04955343 5.92182508,3.44129828 6.07604426,3.76596352 L10.1644498,12.37547 L11.8271294,12.8302057 Z" id="Fill-5" fill="#347DE1"></path>
+                        <path d="M7.94403214,11.7679588 L6.1757501,5.47953416 C6.07845274,5.13353122 5.71577572,4.93005644 5.36977278,5.0273538 C5.02383372,5.12465116 4.82029506,5.48732817 4.91759242,5.83333112 L6.69475452,12.1530596 L7.94403214,11.7679588 Z" id="Fill-7" fill="#347DE1"></path>
+                        <path d="M4.89594168,12.5771623 L4.89594168,7.73599595 C4.89594168,7.37657709 4.60187751,7.08251291 4.24245864,7.08251291 C3.88310366,7.08251291 3.58903949,7.37657709 3.58903949,7.73599595 L3.58903949,12.9869867 L4.89594168,12.5771623 Z" id="Fill-9" fill="#347DE1"></path>
+                    </g>
+                </g>
+                <rect id="矩形" stroke="url(#linearGradient-3)" stroke-width="5" fill-rule="nonzero" x="0" y="9" width="63" height="74" rx="2"></rect>
+                <rect id="矩形" fill="#1C2B43" fill-rule="nonzero" x="11" y="43" width="41" height="6" rx="3"></rect>
+                <rect id="矩形-copy" fill="#1C2B43" fill-rule="nonzero" x="11" y="55" width="41" height="6" rx="3"></rect>
+                <rect id="矩形-copy-3" fill="#1C2B43" fill-rule="nonzero" x="11" y="67" width="41" height="6" rx="3"></rect>
+                <rect id="矩形" fill="#23314B" fill-rule="nonzero" x="24" y="0" width="15" height="4"></rect>
+                <path d="M18,4 L45,4 C46.1045695,4 47,4.8954305 47,6 L47,13 L16,13 L16,6 C16,4.8954305 16.8954305,4 18,4 Z" id="矩形-copy-4" fill="#23314B" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_notice@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ATMEX移动端" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="交易" transform="translate(-16.000000, -72.000000)" fill-rule="nonzero" stroke="#CACFE6">
+            <g id="icon_notice" transform="translate(16.000000, 73.000000)">
+                <path d="M14.1458341,10.858824 C15.0311207,10.4452347 15.6648996,9.33562918 15.6648996,8.03173828 C15.6648996,6.71689232 15.0204262,5.59961018 14.123467,5.19437554" id="路径" stroke-linecap="round"></path>
+                <path d="M2.97373744,10.689519 L2.97373744,5.31951904 L0.545166016,5.31951904 L0.545166016,10.689519 L2.97373744,10.689519 Z" id="矩形" fill="#CACFE6"></path>
+                <path d="M2.99211775,5.1104126 L10.9145563,0.545027948 C11.1538155,0.407152445 11.4595436,0.489340157 11.5974191,0.728599341 C11.6411718,0.804524642 11.664202,0.890615395 11.664202,0.978245023 L11.664202,14.9953627 C11.664202,15.2715051 11.4403444,15.4953627 11.164202,15.4953627 C11.0768171,15.4953627 10.9909581,15.4724609 10.915182,15.4289397 L2.99211775,10.878418 L2.99211775,5.1104126 Z" id="路径-3" fill="#CACFE6"></path>
+            </g>
+        </g>
+    </g>
+</svg>

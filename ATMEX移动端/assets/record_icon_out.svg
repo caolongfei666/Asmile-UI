@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>record_icon_out@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ATMEX移动端" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="账单合约" transform="translate(-16.000000, -209.000000)">
+            <g id="账单" transform="translate(0.000000, 112.000000)">
+                <g id="record_icon_out" transform="translate(16.000000, 97.000000)">
+                    <circle id="椭圆形-copy" fill="#347DE1" fill-rule="nonzero" cx="16" cy="16" r="16"></circle>
+                    <g id="充币-copy" transform="translate(9.000000, 7.692383)">
+                        <g id="分享" transform="translate(12.502168, 8.054730) rotate(-195.000000) translate(-12.502168, -8.054730) translate(6.502168, 2.054730)">
+                            <rect id="矩形" fill="#000000" opacity="0" x="1" y="-6.82121026e-13" width="10.9285714" height="10.9285714"></rect>
+                            <path d="M7.33883915,8.30010753 L7.33883915,6.56741636 C3.7388556,5.96474268 1.83170533,10.7946069 1.83170533,10.7946069 C1.83170533,3.31110882 7.33883915,3.76120068 7.33883915,3.76120068 L7.33883915,2.00967267 L10.5691805,5.15488136 L7.33883915,8.30010753 Z" id="形状" fill="#FFFFFF" fill-rule="nonzero" transform="translate(6.200443, 6.402140) rotate(-195.000000) translate(-6.200443, -6.402140) "></path>
+                        </g>
+                        <rect id="矩形" stroke="#FFFFFF" fill-rule="nonzero" x="3.07142857" y="7" width="4.14285714" height="1" rx="0.5"></rect>
+                        <path d="M8.25873675,3.92857143 L12.7921226,3.92857143 C13.3444074,3.92857143 13.7921226,4.37628668 13.7921226,4.92857143 C13.7921226,4.95670528 13.7909354,4.98482659 13.788564,5.01286032 L13.1063756,13.0775146 C12.817906,15.1071603 11.5274833,16.1219831 9.23510742,16.1219831 C6.94273158,16.1219831 3.86436244,16.1219831 0,16.1219831" id="路径-5" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" fill-rule="nonzero" transform="translate(6.940142, 10.025277) scale(-1, 1) translate(-6.940142, -10.025277) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
