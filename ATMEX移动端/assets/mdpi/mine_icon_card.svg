@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="13px" viewBox="0 0 17 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>mine_icon_card@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ATMEX移动端" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的" transform="translate(-16.000000, -256.000000)">
+            <g id="mine_icon_card" transform="translate(16.000000, 254.000000)">
+                <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="17" height="17"></rect>
+                <path d="M0.85,5.95 L16.15,5.95 L16.15,4.25 C16.15,3.78055796 15.769442,3.4 15.3,3.4 L1.7,3.4 C1.23055796,3.4 0.85,3.78055796 0.85,4.25 L0.85,5.95 Z M0.85,6.8 L0.85,12.75 C0.85,13.219442 1.23055796,13.6 1.7,13.6 L15.3,13.6 C15.769442,13.6 16.15,13.219442 16.15,12.75 L16.15,6.8 L0.85,6.8 Z M1.7,2.55 L15.3,2.55 C16.2388841,2.55 17,3.31111593 17,4.25 L17,12.75 C17,13.6888841 16.2388841,14.45 15.3,14.45 L1.7,14.45 C0.761115925,14.45 9.48876711e-16,13.6888841 0,12.75 L0,4.25 C-1.14980138e-16,3.31111593 0.761115925,2.55 1.7,2.55 Z M3.125,8.9 L9.075,8.9 C9.30972102,8.9 9.5,9.09027898 9.5,9.325 C9.5,9.55972102 9.30972102,9.75 9.075,9.75 L3.125,9.75 C2.89027898,9.75 2.7,9.55972102 2.7,9.325 C2.7,9.09027898 2.89027898,8.9 3.125,8.9 Z" id="形状" fill="#CACFE6" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
