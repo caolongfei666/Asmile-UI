@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="217px" height="223px" viewBox="0 0 217 223" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>yindao3@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="10.1738281%" x2="50%" y2="67.1601562%" id="linearGradient-1">
+            <stop stop-color="#CFA731" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#252527" offset="0%"></stop>
+            <stop stop-color="#010101" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="17.259063%" x2="50%" y2="86.2764814%" id="linearGradient-3">
+            <stop stop-color="#011B34" offset="0%"></stop>
+            <stop stop-color="#010103" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#A8A8A8" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#969696" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#040404" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="86.2766351%" id="linearGradient-7">
+            <stop stop-color="#010101" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-8">
+            <stop stop-color="#973145" offset="0%"></stop>
+            <stop stop-color="#010101" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#007E63" offset="0%"></stop>
+            <stop stop-color="#010101" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="33.0972333%" x2="50%" y2="92.9995117%" id="linearGradient-10">
+            <stop stop-color="#313036" offset="0%"></stop>
+            <stop stop-color="#010101" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="59.650633%" x2="100%" y2="59.650633%" id="linearGradient-11">
+            <stop stop-color="#47454B" offset="0%"></stop>
+            <stop stop-color="#B7B7B7" offset="34.1295415%"></stop>
+            <stop stop-color="#FFFFFF" offset="53.7611034%"></stop>
+            <stop stop-color="#3E3E3F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="91.3467685%" id="linearGradient-12">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="22.6015625%" x2="50%" y2="73.6171875%" id="linearGradient-13">
+            <stop stop-color="#EEEEEE" offset="0%"></stop>
+            <stop stop-color="#040404" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="ATMEX移动端" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="引导页3" transform="translate(-79.000000, -146.000000)">
+            <g id="yindao3" transform="translate(79.000000, 147.000000)">
+                <rect id="矩形-copy-37" fill="url(#linearGradient-1)" x="134" y="131" width="2" height="25"></rect>
+                <path d="M49,108 L49,21 C49,9.40202025 58.4020203,0 70,0 L155,0 C166.59798,0 176,9.40202025 176,21 L176,108" id="路径" stroke="url(#linearGradient-2)"></path>
+                <polygon id="路径-19" fill="url(#linearGradient-3)" points="111.252197 187 111.252197 221 190.198242 202.469372 190.198242 168.712013"></polygon>
+                <path d="M189.917236,168.068481 L189.917236,203.568481" id="直线-copy" stroke="url(#linearGradient-4)" stroke-linecap="square"></path>
+                <path d="M33.355957,168.693848 L33.355957,204.193848" id="直线" stroke="url(#linearGradient-5)" stroke-linecap="square"></path>
+                <path d="M111,187 L111.252197,221" id="直线-copy-2" stroke="url(#linearGradient-6)" stroke-linecap="square"></path>
+                <path d="M112.097656,147 L33.9809894,166.694342 C33.445462,166.829356 33.1207819,167.372937 33.2557961,167.908465 C33.347144,168.270792 33.6328775,168.551963 33.9966279,168.637467 L110.597656,186.643555 L189.136786,168.62082 C189.67508,168.497295 190.011317,167.960785 189.887792,167.422491 C189.804035,167.057496 189.523368,166.769887 189.160527,166.67724 L112.097656,147 Z" id="路径-18" stroke="url(#linearGradient-7)"></path>
+                <g id="分组" transform="translate(0.000000, 107.000000)">
+                    <rect id="矩形" fill="url(#linearGradient-8)" x="0" y="22" width="3" height="22" rx="1.5"></rect>
+                    <rect id="矩形-copy-3" fill="url(#linearGradient-8)" x="16" y="30" width="3" height="22" rx="1.5"></rect>
+                    <rect id="矩形-copy-12" fill="url(#linearGradient-8)" x="43" y="32" width="3" height="22" rx="1.5"></rect>
+                    <rect id="矩形-copy-13" fill="url(#linearGradient-8)" x="53" y="44" width="3" height="22" rx="1.5"></rect>
+                    <rect id="矩形-copy-18" fill="url(#linearGradient-8)" x="103" y="36" width="3" height="28" rx="1.5"></rect>
+                    <rect id="矩形-copy-21" fill="url(#linearGradient-8)" x="136" y="36" width="3" height="28" rx="1.5"></rect>
+                    <rect id="矩形-copy-25" fill="url(#linearGradient-8)" x="176" y="47" width="3" height="13" rx="1.5"></rect>
+                    <rect id="矩形-copy-34" fill="url(#linearGradient-8)" x="174" y="7" width="3" height="13" rx="1.5"></rect>
+                    <rect id="矩形-copy-26" fill="url(#linearGradient-8)" x="184" y="40" width="3" height="13" rx="1.5"></rect>
+                    <rect id="矩形-copy-35" fill="url(#linearGradient-8)" x="182" y="0" width="3" height="13" rx="1.5"></rect>
+                    <rect id="矩形-copy-29" fill="url(#linearGradient-8)" x="208" y="32" width="3" height="13" rx="1.5"></rect>
+                    <rect id="矩形-copy-30" fill="url(#linearGradient-8)" x="214" y="26" width="3" height="10" rx="1.5"></rect>
+                    <rect id="矩形-copy-22" fill="url(#linearGradient-8)" x="146" y="26" width="3" height="28" rx="1.5"></rect>
+                    <rect id="矩形-copy-23" fill="url(#linearGradient-8)" x="157" y="31" width="3" height="28" rx="1.5"></rect>
+                    <rect id="矩形-copy-10" fill="url(#linearGradient-8)" x="40" y="4" width="3" height="22" rx="1.5"></rect>
+                    <rect id="矩形-copy-6" fill="url(#linearGradient-8)" x="6" y="12" width="3" height="22" rx="1.5"></rect>
+                    <rect id="矩形-copy" fill="url(#linearGradient-9)" x="23" y="2" width="3" height="22" rx="1.5"></rect>
+                    <rect id="矩形-copy-9" fill="url(#linearGradient-9)" x="30" y="8" width="3" height="22" rx="1.5"></rect>
+                    <rect id="矩形-copy-8" fill="url(#linearGradient-9)" x="8" y="30" width="3" height="22" rx="1.5"></rect>
+                    <rect id="矩形-copy-5" fill="url(#linearGradient-9)" x="23" y="36" width="3" height="22" rx="1.5"></rect>
+                    <rect id="矩形-copy-14" fill="url(#linearGradient-9)" x="63" y="28" width="3" height="33" rx="1.5"></rect>
+                    <rect id="矩形-copy-17" fill="url(#linearGradient-9)" x="92" y="23" width="3" height="39" rx="1.5"></rect>
+                    <rect id="矩形-copy-15" fill="url(#linearGradient-9)" x="72" y="36" width="3" height="27" rx="1.5"></rect>
+                    <rect id="矩形-copy-16" fill="url(#linearGradient-9)" x="82" y="44" width="3" height="22" rx="1.5"></rect>
+                    <rect id="矩形-copy-19" fill="url(#linearGradient-9)" x="113" y="45" width="3" height="22" rx="1.5"></rect>
+                    <rect id="矩形-copy-20" fill="url(#linearGradient-9)" x="125" y="45" width="3" height="22" rx="1.5"></rect>
+                    <rect id="矩形-copy-24" fill="url(#linearGradient-9)" x="167" y="47" width="3" height="14" rx="1.5"></rect>
+                    <rect id="矩形-copy-27" fill="url(#linearGradient-9)" x="192" y="42" width="3" height="14" rx="1.5"></rect>
+                    <rect id="矩形-copy-31" fill="url(#linearGradient-9)" x="199" y="12" width="3" height="14" rx="1.5"></rect>
+                    <rect id="矩形-copy-33" fill="url(#linearGradient-9)" x="191" y="5" width="3" height="14" rx="1.5"></rect>
+                    <rect id="矩形-copy-28" fill="url(#linearGradient-9)" x="201" y="39" width="3" height="14" rx="1.5"></rect>
+                    <rect id="矩形-copy-32" fill="url(#linearGradient-9)" x="208" y="9" width="3" height="14" rx="1.5"></rect>
+                    <rect id="矩形-copy-11" fill="url(#linearGradient-9)" x="33" y="28" width="3" height="22" rx="1.5"></rect>
+                </g>
+                <polygon id="路径-19-copy" fill="url(#linearGradient-3)" transform="translate(72.194092, 195.105347) scale(-1, 1) translate(-72.194092, -195.105347) " points="33.7783203 187 33.7783203 221 110.609863 205.060547 110.609863 169.210693"></polygon>
+                <rect id="矩形" fill="#347DE1" x="100" y="7" width="22" height="3" rx="1.5"></rect>
+                <circle id="椭圆形" fill="#347DE1" cx="126" cy="9" r="2"></circle>
+                <path d="M55,110.58471 L55,73.3974436 C60.3717448,62.8700999 64.8811849,56.9049306 68.5283203,55.5019358 C73.9990234,53.3974436 72.4101563,53.3974436 78.6962891,53.3974436 C84.9824219,53.3974436 91.9316406,47.3974436 97,48.3974436 C102.068359,49.3974436 112.428711,57.606428 116.874023,55.5019358 C121.319336,53.3974436 127.878906,40.590992 134.454102,39.4652968 C141.029297,38.3396016 140.256836,42.3974436 145.079102,45.3974436 C149.901367,48.3974436 151.854492,48.5587339 153.725586,46.9780888 C155.59668,45.3974436 161.306641,33.0778463 161.306641,28.8763169 C161.306641,24.6747874 166.754883,20.774345 167.983398,19.0319448 C168.802409,17.8703447 169.326823,48.3879332 169.556641,110.58471" id="路径" stroke="url(#linearGradient-11)" fill="url(#linearGradient-10)"></path>
+                <path d="M82,6 L82,10 C82,13.8659932 85.1340068,17 89,17 L139,17 C142.865993,17 146,13.8659932 146,10 L146,6 L156,6 C163.179702,6 169,11.8202983 169,19 L169,116 L55,116 L55,19 C55,11.8202983 60.8202983,6 68,6 L82,6 Z" id="合并形状" stroke="url(#linearGradient-12)" stroke-width="2"></path>
+                <rect id="矩形" fill="url(#linearGradient-13)" x="91" y="98" width="2" height="25"></rect>
+                <rect id="矩形" stroke="#979797" stroke-width="0.5" x="71.25" y="75.25" width="42.5" height="18.5" rx="3"></rect>
+                <rect id="矩形-copy-36" stroke="#979797" stroke-width="0.5" x="116.25" y="108.25" width="37.5" height="18.5" rx="3"></rect>
+                <circle id="椭圆形" stroke="#FFFFFF" stroke-width="0.5" cx="92" cy="94" r="4"></circle>
+                <circle id="椭圆形-copy" stroke="#CFA731" stroke-width="0.5" cx="135" cy="127" r="4"></circle>
+                <circle id="椭圆形" fill="#FFFFFF" cx="92" cy="94" r="2"></circle>
+                <circle id="椭圆形-copy-2" fill="#CFA731" cx="135" cy="127" r="2"></circle>
+                <text id="BTC" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" line-spacing="10" letter-spacing="-0.286842138" fill="#717171">
+                    <tspan x="83" y="89">BTC</tspan>
+                </text>
+                <text id="ETH" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" line-spacing="10" letter-spacing="-0.286842138" fill="#717171">
+                    <tspan x="126" y="122">ETH</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

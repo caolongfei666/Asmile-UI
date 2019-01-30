@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>home_icon_mine2@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ATMEX移动端" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的-资产" transform="translate(-303.000000, -626.000000)" fill-rule="nonzero">
+            <g id="tab" transform="translate(0.000000, 618.000000)">
+                <g id="home_icon_mine2" transform="translate(303.000000, 8.000000)">
+                    <path d="M20,20 C20,14.7387611 15.5228475,10.4736842 10,10.4736842 C4.4771525,10.4736842 0,14.7387611 0,20" id="路径" fill="#347DE1"></path>
+                    <circle id="椭圆形" fill="#347DE1" cx="10.0184326" cy="6.58239746" r="6.5"></circle>
+                    <path d="M8.00727051,8.01220703 C8.00727051,9.11677653 8.90270101,10.012207 10.0072705,10.012207 C11.11184,10.012207 12.0072705,9.11677653 12.0072705,8.01220703" id="路径" fill="#162840"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
