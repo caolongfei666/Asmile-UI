@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_caozuo@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ATMEX-PC端" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-1487.000000, -1475.000000)" fill-rule="nonzero" stroke="#347DE1">
+            <g id="合约交易-copy" transform="translate(0.000000, 1348.000000)">
+                <g id="icon_caozuo" transform="translate(1488.000000, 128.000000)">
+                    <circle id="椭圆形" cx="7" cy="7" r="7"></circle>
+                    <path d="M7.86398185,4.56308381 L7.92706566,4.5 L3.87188988,4.5 L7.87188988,4.5 L7.87187591,4.50056193 L7.86398185,4.56308381 Z" id="合并形状" fill="#D8D8D8"></path>
+                    <path d="M9.32301102,6.85796089 L6.53625488,9.64471703 L9.32301102,6.85796089 Z M12.9002367,3.28073518 L12.9633205,3.21765137 L8.90814476,3.21765137 L12.9081448,3.21765137 L12.9081308,3.2182133 L12.9002367,3.28073518 Z" id="合并形状-copy" fill="#D8D8D8" transform="translate(9.722200, 6.431184) rotate(-180.000000) translate(-9.722200, -6.431184) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
