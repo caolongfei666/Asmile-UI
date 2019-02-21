@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="9px" height="13px" viewBox="0 0 9 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>icon_up</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ATMEX-PC端" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="合约交易" transform="translate(-695.000000, -730.000000)" fill="#0CC188" fill-rule="nonzero">
+            <path d="M699.586263,731.724334 L699.586263,742.890524 L698.643454,742.890524 L698.643454,731.575498 L695.707107,734.511845 L695,733.804738 L698.646447,730.158291 C698.649878,730.15486 698.653347,730.151489 698.656852,730.148178 C698.660063,730.144773 698.663335,730.141403 698.666667,730.138071 C698.850762,729.953976 699.149238,729.953976 699.333333,730.138071 L703.242641,734.047378 L702.575974,734.714045 L699.586263,731.724334 Z" id="icon_up"></path>
+        </g>
+    </g>
+</svg>

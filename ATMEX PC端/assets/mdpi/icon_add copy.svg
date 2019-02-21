@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>icon_add copy@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ATMEX-PC端" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="合约交易持仓记录" transform="translate(-1850.000000, -909.000000)" fill="#7185A4" fill-rule="nonzero">
+            <g id="分组-16" transform="translate(1511.000000, 726.000000)">
+                <g id="BTC-Copy" transform="translate(0.000000, 170.000000)">
+                    <path d="M345,19 L345,13 L347,13 L347,19 L353,19 L353,21 L347,21 L347,27 L345,27 L345,21 L339,21 L339,19 L345,19 Z" id="icon_add-copy"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="16px" viewBox="0 0 17 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>充币 copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ATMEX-PC端" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="合约交易" transform="translate(-1511.000000, -664.000000)">
+            <g id="充币-copy" transform="translate(1512.000000, 662.000000)">
+                <g id="分享" transform="translate(12.502168, 8.054730) rotate(-195.000000) translate(-12.502168, -8.054730) translate(6.502168, 2.054730)">
+                    <rect id="矩形" fill="#000000" opacity="0" x="1" y="-6.82121026e-13" width="10.9285714" height="10.9285714"></rect>
+                    <path d="M7.33883915,8.30010753 L7.33883915,6.56741636 C3.7388556,5.96474268 1.83170533,10.7946069 1.83170533,10.7946069 C1.83170533,3.31110882 7.33883915,3.76120068 7.33883915,3.76120068 L7.33883915,2.00967267 L10.5691805,5.15488136 L7.33883915,8.30010753 Z" id="形状" fill="#FFFFFF" fill-rule="nonzero" transform="translate(6.200443, 6.402140) rotate(-195.000000) translate(-6.200443, -6.402140) "></path>
+                </g>
+                <rect id="矩形" stroke="#FFFFFF" fill-rule="nonzero" x="3.07142857" y="7" width="4.14285714" height="1" rx="0.5"></rect>
+                <path d="M8.25873675,3.92857143 L12.7921226,3.92857143 C13.3444074,3.92857143 13.7921226,4.37628668 13.7921226,4.92857143 C13.7921226,4.95670528 13.7909354,4.98482659 13.788564,5.01286032 L13.1063756,13.0775146 C12.817906,15.1071603 11.5274833,16.1219831 9.23510742,16.1219831 C6.94273158,16.1219831 3.86436244,16.1219831 0,16.1219831" id="路径-5" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" fill-rule="nonzero" transform="translate(6.940142, 10.025277) scale(-1, 1) translate(-6.940142, -10.025277) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
