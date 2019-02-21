@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="359px" height="63px" viewBox="0 0 359 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>60s kuang</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ATMEX-PC端" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="秒合约交易-下单记录180秒显示" transform="translate(-1500.000000, -668.000000)" fill="#1D2234">
+            <g id="60s-kuang" transform="translate(1500.000000, 635.000000)">
+                <g id="分组-13">
+                    <path d="M172,43.2014885 L179.219131,34.1775745 C179.564141,33.7463125 180.193433,33.6763912 180.624695,34.0214007 C180.68236,34.0675325 180.734737,34.1199098 180.780869,34.1775745 L188,43.2014885 L356,43.2014885 C357.656854,43.2014885 359,44.5446342 359,46.2014885 L359,92.2014885 C359,93.8583427 357.656854,95.2014885 356,95.2014885 L3,95.2014885 C1.34314575,95.2014885 2.02906125e-16,93.8583427 0,92.2014885 L0,46.2014885 C-2.02906125e-16,44.5446342 1.34314575,43.2014885 3,43.2014885 L172,43.2014885 Z" id="60s-kuang"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
