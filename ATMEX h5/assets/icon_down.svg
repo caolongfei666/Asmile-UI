@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="9px" height="14px" viewBox="0 0 9 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>icon_down@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ATMEX-H5页面" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="合约持仓" transform="translate(-146.000000, -398.000000)" fill="#F94545" fill-rule="nonzero">
+            <g id="分组-11-copy" transform="translate(12.000000, 382.000000)">
+                <path d="M138.735786,18.2002525 L138.735786,29.5000002 L137.735786,29.5000002 L137.735786,18.213961 L134.707107,21.2426407 L134,20.5355339 L137.889087,16.6464466 C138.084349,16.4511845 138.400932,16.4511845 138.596194,16.6464466 L142.485281,20.5355339 L141.778175,21.2426407 L138.735786,18.2002525 Z" id="icon_down" transform="translate(138.242641, 23.000000) scale(1, -1) translate(-138.242641, -23.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

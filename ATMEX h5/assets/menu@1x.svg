@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="15px" viewBox="0 0 16 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>menu</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ATMEX-H5页面" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="银行卡" transform="translate(-16.000000, -15.000000)" fill-rule="nonzero">
+            <g id="分组-7">
+                <g id="menu" transform="translate(16.000000, 14.000000)">
+                    <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                    <path d="M0.8,1 L15.2,1 C15.64184,1 16,1.35816 16,1.8 C16,2.24184 15.64184,2.6 15.2,2.6 L0.8,2.6 C0.35816,2.6 0,2.24184 0,1.8 C0,1.35816 0.35816,1 0.8,1 Z M0.8,7.24 L15.2,7.24 C15.64184,7.24 16,7.59816 16,8.04 C16,8.48184 15.64184,8.84 15.2,8.84 L0.8,8.84 C0.35816,8.84 0,8.48184 0,8.04 C0,7.59816 0.35816,7.24 0.8,7.24 L0.8,7.24 Z M0.8,13.48 L15.2,13.48 C15.64184,13.48 16,13.83816 16,14.28 C16,14.72184 15.64184,15.08 15.2,15.08 L0.8,15.08 C0.35816,15.08 0,14.72184 0,14.28 C0,13.83816 0.35816,13.48 0.8,13.48 Z" id="形状" fill="#CACFE6"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
